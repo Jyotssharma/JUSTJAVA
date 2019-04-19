@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JUST JAVA</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="value">3</string>
+    <string name="price">PRICE</string>
+    <string name="showprice">Showprice</string>
+    <string name="amount">Price</string>
+    <string name="amountprice">TOTAL $5</string>
+    <string name="incre">+</string>
+    <string name="decre">-</string>
+    <string name="thank">Thank U</string>
+</resources>
